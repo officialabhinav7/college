@@ -1,2 +1,2 @@
 # college
-this is a for college 
+this is a for college /.
